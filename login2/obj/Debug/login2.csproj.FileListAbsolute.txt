@@ -1,0 +1,10 @@
+C:\Users\frane\source\repos\login2\login2\bin\Debug\login2.exe.config
+C:\Users\frane\source\repos\login2\login2\bin\Debug\login2.exe
+C:\Users\frane\source\repos\login2\login2\bin\Debug\login2.pdb
+C:\Users\frane\source\repos\login2\login2\obj\Debug\login2.csproj.AssemblyReference.cache
+C:\Users\frane\source\repos\login2\login2\obj\Debug\login2.Form1.resources
+C:\Users\frane\source\repos\login2\login2\obj\Debug\login2.Properties.Resources.resources
+C:\Users\frane\source\repos\login2\login2\obj\Debug\login2.csproj.GenerateResource.cache
+C:\Users\frane\source\repos\login2\login2\obj\Debug\login2.csproj.CoreCompileInputs.cache
+C:\Users\frane\source\repos\login2\login2\obj\Debug\login2.exe
+C:\Users\frane\source\repos\login2\login2\obj\Debug\login2.pdb
