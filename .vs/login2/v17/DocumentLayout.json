@@ -1,12 +1,61 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\frane\\source\\repos\\login2\\",
+<<<<<<< HEAD
   "Documents": [],
+=======
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1959778F-88A7-483F-9470-8B47D7A54761}|login2\\login2.csproj|c:\\users\\frane\\source\\repos\\login2\\login2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1959778F-88A7-483F-9470-8B47D7A54761}|login2\\login2.csproj|solutionrelative:login2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1959778F-88A7-483F-9470-8B47D7A54761}|login2\\login2.csproj|c:\\users\\frane\\source\\repos\\login2\\login2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1959778F-88A7-483F-9470-8B47D7A54761}|login2\\login2.csproj|solutionrelative:login2\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+>>>>>>> login
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": []
+=======
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\frane\\source\\repos\\login2\\login2\\Form2.cs",
+              "RelativeDocumentMoniker": "login2\\Form2.cs",
+              "ToolTip": "C:\\Users\\frane\\source\\repos\\login2\\login2\\Form2.cs",
+              "RelativeToolTip": "login2\\Form2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:33:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\frane\\source\\repos\\login2\\login2\\Form2.cs",
+              "RelativeDocumentMoniker": "login2\\Form2.cs",
+              "ToolTip": "C:\\Users\\frane\\source\\repos\\login2\\login2\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "login2\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:16:17.589Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+>>>>>>> login
     }
   ]
 }
